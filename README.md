@@ -1,9 +1,12 @@
-- 👋 Hey there! I'm Kelly Welcome to my GitHub profile!
-- 🌱 I'm a junior developer on an exciting learning path. I'm constantly expanding my coding skills and soaking up new knowledge.
-- 💡 I thrive on challenges and love exploring different programming languages and frameworks.
-- 💻 Collaboration is key! I enjoy working with fellow developers, exchanging ideas, and contributing to meaningful projects.
-- 🚀 My goal is to make a positive impact through my work, creating software that solves problems and brings joy.
-- 📫 Let's connect and build amazing things together! kellym2597@gmail.com
+👋 Hey there! I'm Kelly Welcome to my GitHub profile!
+
+I am a dedicated data enthusiast on a continuous learning journey. I thrive on challenges and enjoy exploring various technologies.
+
+Collaboration is a key aspect of my work ethic, and I find value in working with others to exchange ideas and contribute to meaningful projects.
+
+My ultimate goal is to make a positive impact through my work by solving problems using data. I am committed to applying my skills to achieve innovative and effective solutions.
+
+Feel free to connect with me to collaborate on exciting projects!
 
 <!---
 Kelly0325/Kelly0325 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
